@@ -1,0 +1,12 @@
+html,h1 {
+	border: 1px;
+	background-color: blue;
+	color: white;
+}
+html,input[type=submit]{
+		background-color: black; 
+	}
+html,input[type=submit]:hover{
+	background-color: grey;
+	color:black;
+}
